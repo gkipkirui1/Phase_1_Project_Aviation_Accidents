@@ -29,7 +29,7 @@ Links to presentation
 C:\Users\HP\Desktop\Assessment\Project 1\AviationData
 
 Link to Tableau dashboard
-https://public.tableau.com/app/profile/gilbert.cheruiyot/viz/Project_Tableau_Final_GK_9_09_09_1/Top_10_Model_Per_Total_Uninjured?publish=yes
+https://public.tableau.com/app/profile/gilbert.cheruiyot/viz/Project_Tableau_Final_GK_9_09_09_1/DashboardShowingUninjuredDuringAviationAccidents?publish=yes
 
 
 Data Understanding and Analysis
